@@ -11,7 +11,6 @@
 - [Hardware Notes and Tips](#Hardware-Notes-and-Tips)
 - [Contribute](#contribute)
 
-
 # Brands
 
 - [Giant]()
