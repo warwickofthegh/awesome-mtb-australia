@@ -33,6 +33,18 @@
 - [Bicycles Online Australia](https://www.bicyclesonline.com.au/) - Online only, Exlusive Polygon distributor along with Marion, great value
 - [99Bikes]() - Small range of mtb bike brands
 
+# Media
+
+## Youtube Channels
+
+- [Jeff Kendall-Weed](https://www.youtube.com/channel/UC6DevRBhdC_8tbqsK3y3uPQ) - Mix of POV riding, instructional teaching, product review and entertainment
+- [Berm Peak](https://www.youtube.com/channel/UCu8YylsPiu9XfaQC74Hr_Gw) - Originally Seth's Bike Hack, this channel has it all and is one of the most popular
+- [Sam Pilgrim](https://www.youtube.com/channel/UC-WMwOzgFdvvGVLB1EZ-n-w) - Just having fun hitting sick jump and displaying his mad skills
+- [Worldwide Cyclery](https://www.youtube.com/channel/UCxZoC1sIG-vVtLsJDSbeYyw) - The Shop's Channel with the best product reviews and explainers mix with entertinament
+- [GLobal Mountain Bike Network](https://www.youtube.com/channel/UC_A--fhX5gea0i4UtpD99Gg) - UK based, entertainment and educational channel
+- [GMBN Tech](https://www.youtube.com/channel/UC6juisijUAHcJLt23nk-qOQ) - Explaining and Detailing all the technical aspects of Mountain Biking
+- [Pinkbike](https://www.youtube.com/channel/UC2GIHZpQiJy-8286f4lj_cg) - One of the original and still one of the best, a bit of everything, full production shows to friday fails and epic rides
+- [Backyard Trail Builds](https://www.youtube.com/c/BackyardTrailBuilds/featured) - Lots of building features and just having fun riding
 
 # Hardware Notes and Tips
 
@@ -53,6 +65,20 @@
 - Tubeless: To run tubeless need a tyre bead seat 
 
 ### Hubs
+
+# Personal Protection
+
+## Helmet
+
+- MIPS: A seperate liner system which can twist and move on impact, implemented different on helment styles
+- Visor: Need for those sunny summer days, bigger the better
+- Style: Depends on riding and weather. Modern extend open face helemt can provide excellent protection whilst stil being cool to use. Full face have top protection from front impact but can be warm
+
+## Glasses / Goggles
+
+- Glasses: Nice on trail rides, riding large lens frameless and allow lots of air to move around and keep cool
+- Goggles: More aimed at muddy and cold condition with large vison space and great protection
+- Lens: In full sun glare protection required, with a brown lens being best for clarity and depth perception. In shade or cloudy day a clear lens which protects from wind but allow full light spectrum through is best
 
 # Contribute
 
