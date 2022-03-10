@@ -66,6 +66,16 @@
 
 ### Hubs
 
+### Tubeless Setup
+
+- Requires compatible Rims, Tyres, 
+- Taping: Clean rim with contact cleaner to ensure tape adhers fully, base layer of electrical tape can be good. Tubeless tape to cover rim well, 1+1/2 coverage around valve hole
+- Value: Ensure tight, sealed fit. Best to use removable valves to allow for cleaning rather than replacing
+- Branding: it's all about the looks, value at 6 and logo at 12, come correct
+- Sealant: shake well, squeeze in at 100ml for 2.6 tyre (less or more for sizes either way) - add ground peper for extra plugging pep. Check every few months, replace 6 monthly
+- Beading: Give the pump the beans to quickly get he air in, soapy spray can help or compresser
+- Cleanup: Soapy hot water to clean tyre between applicaions and garage surrounds
+
 # Personal Protection
 
 ## Helmet
