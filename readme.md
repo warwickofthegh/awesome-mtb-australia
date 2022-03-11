@@ -59,12 +59,16 @@
 
 ### Rims
 
-- Material: Commonly aluminium, Carbon at the top end
-- Width: 29mm to 35mm, wider not always better
+- Material: Commonly alloy/alluminium or Carbon at the top end, carbon being lighter though more expensive
+- Width: 29mm to 36mm, wider can be more stable though less nible, but no clearly better size
 - Size: 29" rolls great, 27.5" turns easy and lighter, mullet config is an option (f:29", r:27.5)
-- Tubeless: To run tubeless need a tyre bead seat 
+- Tubeless: To run tubeless need a tyre bead seat in the rim, rim needs to state tubeless ready 
 
 ### Hubs
+
+- Rear: 
+- Points of Engagement in Rear: is when peadle engages hub to drive wheel, varies from 30-50+, more is better 50+ is ideal
+- Front: 
 
 ### Tubeless Setup
 
