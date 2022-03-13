@@ -48,7 +48,7 @@
 
 # Hardware Notes and Tips
 
-## Wheels
+## Wheel Set
 
 ### Tyres
 
@@ -69,6 +69,11 @@
 - Rear: 
 - Points of Engagement in Rear: is when peadle engages hub to drive wheel, varies from 30-50+, more is better 50+ is ideal
 - Front: 
+
+### Spokes
+
+- Number: 24 or 32 spokes common option, majority use 32 for good stiffness amd strength, 24 new option for lighter weight
+- Material: Steel most common, new poly felxible spokes super light weight but very expensive
 
 ### Tubeless Setup
 
