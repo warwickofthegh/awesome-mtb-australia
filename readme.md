@@ -57,6 +57,29 @@
 - Width: Run larger front to rear is a great option, allowing rear to slip before front. 2.4-2.6 front and 2.2 to 2.4 rear
 - Compound: Can be single or multiple(hard/medium/soft) make up for both walls and tread
 
+- Brands
+-- Maxxis
+-- WTB
+-- Continental
+-- Schwalbe
+-- Specializsed
+-- Michelin
+- Construction
+-- Wide Trail (WT): Optimised for rim width of 30mm-35mm
+-- Foldable: Foldable beads also keep the tire secured to the rim but are lighter weight and easily transported. The bead is made of spun aramid or Kevlar® fibers.
+-- Bead: TR means it has a sealant compatible bead which will sit in the rim lip for a airtight seal, internal ring of steel or kevlar in foldable
+- Casing:
+-- Tips: Choose a casing to suit riding, squirm and pop reduced as casing gets thicker and heavier. EXO+ front DD rear is a great average rider combo
+-- TPI: The number of threads that cross through one square inch of a single ply of the tire’s casing. Lower TPI gives better puncture, cut and abrasion resistance but is heavier. Higher TPI conforms better to the terrain, offering a smoother, more comfortable ride while reducing the weight of the tire.
+-- EXO: An extremely cut-resistant and abrasion-resistant material added to the sidewalls of select mountain tires.
+-- EXO+: combines two of our best puncture protection materials: SilkShield and EXO.
+-- Double Down (DD):  Two 120 TPI casing layers reinforced with a butyl insert
+-- Down Hill (DH): two layers of 60 TPI casing material used from bead-to-bead, providing additional protection and sidewall stiffness
+- Rubber Compound
+-- 3C MAXXGRIP: uses the softest rubber compounds to offer the ultimate in grip and slow rebound properties
+-- 3C MAXXTERRA: intermediate compound configuration, softer and offers more traction than 3C MaxxSpeed, yet provides better treadwear and less rolling resistance than MaxxGrip
+
+
 ### Rims
 
 - Material: Commonly alloy/alluminium or Carbon at the top end, carbon being lighter though more expensive
@@ -84,6 +107,15 @@
 - Sealant: shake well, squeeze in at 100ml for 2.6 tyre (less or more for sizes either way) - add ground peper for extra plugging pep. Check every few months, replace 6 monthly
 - Beading: Give the pump the beans to quickly get he air in, soapy spray can help or compresser
 - Cleanup: Soapy hot water to clean tyre between applicaions and garage surrounds
+
+#Suspension
+
+- Rear
+-- Type: Coil/Spring or Air Shocks, most common being Air Shocks
+-- Setup:
+- Front
+-- Type:
+-- Setup
 
 # Personal Protection
 
